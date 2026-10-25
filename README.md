@@ -2,7 +2,6 @@
 <!-- 1. BANNER O ANIMACIÓN DE PORTADA -->
 <div align="center">
   <!-- Arrastra tu GIF/Video al editor para que te dé un enlace y pégalo donde dice tu-animacion.gif -->
-  <img src="https://github.com/user-attachments/assets/be1a5d7c-5788-4f0c-bcbf-45c449305856" width="100%" alt="Header Animado" />
 
   <br /><br />
 
@@ -80,3 +79,4 @@
 ## 📬 Contacto & Redes
 
 - **GitHub:** [@LV-BTF](https://github.com/LV-BTF)
+- <img src="https://github.com/user-attachments/assets/be1a5d7c-5788-4f0c-bcbf-45c449305856" height="250" alt="Header Animado" />
