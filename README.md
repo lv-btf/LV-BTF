@@ -79,4 +79,4 @@
 ## 📬 Contacto & Redes
 
 - **GitHub:** [@LV-BTF](https://github.com/LV-BTF)
-- <img src="https://github.com/user-attachments/assets/be1a5d7c-5788-4f0c-bcbf-45c449305856" height="250" alt="Header Animado" />
+<img src="https://github.com/user-attachments/assets/be1a5d7c-5788-4f0c-bcbf-45c449305856" height="250" alt="Header Animado" />
