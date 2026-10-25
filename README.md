@@ -7,7 +7,7 @@
 
   <!-- Texto dinámico escribiéndose automáticamente -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5528D1&center=true&vCenter=true&width=500&lines=%C2%A1Hola!+Soy+BK;Estudiante+de+Desarrollo+Web;Apasionado+por+JavaScript" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5528D1&center=true&vCenter=true&width=500&lines=%C2%A1Hola!+Soy+lv;Estudiante+de+Ingenieria+de+Sistemas;Apasionado+por+JavaScript" alt="Typing SVG" />
   </a>
 
   <p><b>Desarrollador Web Frontend</b> | Apasionado por la tecnología, las estructuras de datos y el desarrollo web.</p>
