@@ -22,6 +22,10 @@
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+  <br /><br />
+  
+  <img src="https://github.com/user-attachments/assets/be1a5d7c-5788-4f0c-bcbf-45c449305856" height="250" alt="Header Animado" />
 </div>
 
 ---
@@ -79,4 +83,4 @@
 ## 📬 Contacto & Redes
 
 - **GitHub:** [@LV-BTF](https://github.com/LV-BTF)
-<img src="https://github.com/user-attachments/assets/be1a5d7c-5788-4f0c-bcbf-45c449305856" height="250" alt="Header Animado" />
+
