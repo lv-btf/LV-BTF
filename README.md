@@ -68,46 +68,93 @@
 <!-- ═══════════════ 6. PROYECTOS POR CARPETAS ═══════════════ -->
 ## 📂 Proyectos
 
-> Haz clic en cada carpeta para desplegarla y entrar al repositorio. 👇
+> Haz clic en cada carpeta para desplegarla y ver los detalles del repositorio. 👇
 
-<details>
+<details open>
   <summary><b>📁 Buscador-de-Usuarios-GitHub</b> &nbsp;·&nbsp; <code>JavaScript</code> <code>HTML5</code> <code>CSS3</code></summary>
   <br/>
-  <p>Aplicación web que consulta perfiles de GitHub en tiempo real mediante la API REST. Implementa una pila (LIFO) manual de máximo 5 elementos con reordenamiento dinámico y persistencia local.</p>
-  <ul>
-    <li><b>Stack manual:</b> push y reordenamiento al índice 0.</li>
-    <li><b>Persistencia:</b> Datos guardados con <code>localStorage</code>.</li>
-    <li><b>API:</b> Consumo con <code>async/await</code> y <code>fetch</code>.</li>
-  </ul>
-  <p><a href="https://github.com/LV-BTF/BuscadorUsuarioGithub"><b>💻 Ver Código</b></a></p>
+  <p>Aplicación web que consulta perfiles de GitHub en tiempo real mediante la API REST de GitHub.</p>
+  
+  <table>
+    <tr>
+      <th>📄 Archivo / Concepto</th>
+      <th>📝 Descripción</th>
+    </tr>
+    <tr>
+      <td><b>🧱 Stack manual</b></td>
+      <td><code>push</code> y reordenamiento dinámico al índice 0.</td>
+    </tr>
+    <tr>
+      <td><b>💾 Persistencia</b></td>
+      <td>Datos guardados con <code>localStorage</code>.</td>
+    </tr>
+    <tr>
+      <td><b>🌐 API</b></td>
+      <td>Consumo asíncrono con <code>async/await</code> y <code>fetch</code>.</td>
+    </tr>
+  </table>
+
+  <p>
+    <a href="https://github.com/LV-BTF/BuscadorUsuarioGithub">
+      <img src="https://img.shields.io/badge/ Ver%20C%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver Código" />
+    </a>
+  </p>
 </details>
 
-<details>
+<details open>
   <summary><b>📁 Proyecto_Personal</b> &nbsp;·&nbsp; <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code></summary>
   <br/>
-  <p>Páginas y maquetación web para aprender la estructura del DOM, estilos modernos con CSS y manipulación dinámica de elementos.</p>
-  <p><a href="https://github.com/LV-BTF/Proyecto_Personal"><b>💻 Ver Código</b></a></p>
+  <p>Páginas y maquetación web centradas en la estructura del DOM y diseño web responsivo.</p>
+  
+  <table>
+    <tr>
+      <th>📄 Archivo / Concepto</th>
+      <th>📝 Descripción</th>
+    </tr>
+    <tr>
+      <td><b>📱 Diseño responsivo</b></td>
+      <td>Adaptable a teléfonos, tabletas y monitores.</td>
+    </tr>
+    <tr>
+      <td><b>🖱️ Eventos DOM</b></td>
+      <td>Manipulación e interacción dinámica con el usuario.</td>
+    </tr>
+  </table>
+
+  <p>
+    <a href="https://github.com/LV-BTF/Proyecto_Personal">
+      <img src="https://img.shields.io/badge/ Ver%20C%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver Código" />
+    </a>
+  </p>
 </details>
 
 <details>
-  <summary><b>📁 Pagina_Web_01</b> &nbsp;·&nbsp; <code>HTML5</code> <code>CSS3</code></summary>
+  <summary><b>📁 Prácticas de Maquetación Web (Pagina_Web_01 / 02 / 03)</b> &nbsp;·&nbsp; <code>HTML5</code> <code>CSS3</code></summary>
   <br/>
-  <p>Primeros ejercicios prácticos de desarrollo web enfocado en maquetación estructurada y diseño básico.</p>
-  <p><a href="https://github.com/LV-BTF/Pagina_Web_01"><b>💻 Ver Código</b></a></p>
-</details>
-
-<details>
-  <summary><b>📁 Pagina_Web_02</b> &nbsp;·&nbsp; <code>HTML5</code> <code>CSS3</code></summary>
-  <br/>
-  <p>Proyectos de práctica de diseño web responsivo y manejo de maquetación CSS.</p>
-  <p><a href="https://github.com/LV-BTF/Pagina_Web_02"><b>💻 Ver Código</b></a></p>
-</details>
-
-<details>
-  <summary><b>📁 Pagina_Web_03</b> &nbsp;·&nbsp; <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code></summary>
-  <br/>
-  <p>Ejercicio práctico de interacción web y manipulación básica del DOM con JavaScript.</p>
-  <p><a href="https://github.com/LV-BTF/Pagina_Web_03"><b>💻 Ver Código</b></a></p>
+  <p>Colección de ejercicios prácticos iniciales enfocados en maquetación estructurada, estilos CSS y fundamentos web.</p>
+  
+  <table>
+    <tr>
+      <th>📄 Repositorio</th>
+      <th>📝 Enfoque del Proyecto</th>
+      <th>💻 Enlace</th>
+    </tr>
+    <tr>
+      <td><b>Pagina_Web_01</b></td>
+      <td>Estructura básica HTML5 y maquetación inicial.</td>
+      <td><a href="https://github.com/LV-BTF/Pagina_Web_01">Ver Repo</a></td>
+    </tr>
+    <tr>
+      <td><b>Pagina_Web_02</b></td>
+      <td>Diseño responsivo y layouts con CSS Flexbox.</td>
+      <td><a href="https://github.com/LV-BTF/Pagina_Web_02">Ver Repo</a></td>
+    </tr>
+    <tr>
+      <td><b>Pagina_Web_03</b></td>
+      <td>Introducción a la interacción dinámica con JS.</td>
+      <td><a href="https://github.com/LV-BTF/Pagina_Web_03">Ver Repo</a></td>
+    </tr>
+  </table>
 </details>
 
 <br/>
@@ -121,11 +168,14 @@
 ---
 
 <!-- ═══════════════ 7. CONTACTO ═══════════════ -->
-## 📬 Contacto
+## 📬 Contacto & Redes
 
 <div align="center">
   <a href="https://github.com/LV-BTF">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:tu-correo@email.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
 
