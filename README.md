@@ -1,6 +1,6 @@
 <!-- ═══════════════ 1. CABECERA ═══════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=LV-BTF&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20Web%20Frontend&descSize=22&descAlignY=60" width="100%" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=lv-btf&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20Web%20Frontend&descSize=22&descAlignY=60" width="100%" alt="Banner" />
 
   <table>
     <tr>
