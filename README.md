@@ -1,7 +1,7 @@
 <!-- ═══════════════ 1. CABECERA ═══════════════ -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=LV-BTF&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20Web%20Frontend&descSize=22&descAlignY=60" width="100%" alt="Banner" />
-  
+
   <table>
     <tr>
       <td align="center" valign="middle" width="55%">
@@ -24,7 +24,7 @@
 
 <!-- ═══════════════ 2. NAVEGACIÓN ═══════════════ -->
 <div align="center">
-  🧑‍💻 <a href="#-sobre-mí">Sobre mí</a> · 🛠️ <a href="#%EF%B8%8F-tecnologías">Tecnologías</a> · 📊 <a href="#-estadísticas">Estadísticas</a> · 📂 <a href="#-proyectos">Proyectos</a> · 📬 <a href="#-contacto">Contacto</a>
+  🧑‍💻 <a href="#-sobre-mí">Sobre mí</a> · 🛠️ <a href="#%EF%B8%8F-tecnologías">Tecnologías</a> · 📊 <a href="#-estadísticas">Estadísticas</a> · 📂 <a href="#-proyectos">Proyectos</a> · 📬 <a href="#-contacto--redes">Contacto</a>
 </div>
 
 <br/>
@@ -46,7 +46,7 @@
 <div align="center">
   <h3>🎨 Lenguajes</h3>
   <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Lenguajes" />
-  
+
   <h3>🧰 Herramientas</h3>
   <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Herramientas" />
 </div>
@@ -68,21 +68,31 @@
 <!-- ═══════════════ 6. PROYECTOS POR CARPETAS ═══════════════ -->
 ## 📂 Proyectos
 
-> Haz clic en cada carpeta para desplegarla y ver los detalles del repositorio. 👇
+> Haz clic en cada carpeta para desplegarla. Cada proyecto tiene su botón de **código** 💻 y de **demo en vivo** 🚀.
 
+<!-- ───────── PROYECTO 1 ───────── -->
 <details open>
-  <summary><b>📁 Buscador-de-Usuarios-GitHub</b> &nbsp;·&nbsp; <code>JavaScript</code> <code>HTML5</code> <code>CSS3</code></summary>
+  <summary><b>📁 Buscador-de-Usuarios-GitHub</b></summary>
   <br/>
+
+  <p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/API%20REST-A855F7?style=flat-square&logo=fastapi&logoColor=white" alt="API REST" />
+    <img src="https://img.shields.io/badge/LocalStorage-22D3EE?style=flat-square&logo=databricks&logoColor=white" alt="LocalStorage" />
+  </p>
+
   <p>Aplicación web que consulta perfiles de GitHub en tiempo real mediante la API REST de GitHub.</p>
-  
+
   <table>
     <tr>
-      <th>📄 Archivo / Concepto</th>
+      <th>📄 Concepto</th>
       <th>📝 Descripción</th>
     </tr>
     <tr>
       <td><b>🧱 Stack manual</b></td>
-      <td><code>push</code> y reordenamiento dinámico al índice 0.</td>
+      <td><code>push</code> y reordenamiento dinámico al índice 0 (pila LIFO de 5 elementos).</td>
     </tr>
     <tr>
       <td><b>💾 Persistencia</b></td>
@@ -96,19 +106,31 @@
 
   <p>
     <a href="https://github.com/LV-BTF/BuscadorUsuarioGithub">
-      <img src="https://img.shields.io/badge/ Ver%20C%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver Código" />
+      <img src="https://img.shields.io/badge/Ver%20C%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver Código" />
+    </a>
+    <a href="https://lv-btf.github.io/BuscadorUsuarioGithub/">
+      <img src="https://img.shields.io/badge/Ver%20Demo%20Online-22C55E?style=for-the-badge&logo=githubpages&logoColor=white" alt="Ver Demo Online" />
     </a>
   </p>
 </details>
 
+<!-- ───────── PROYECTO 2 ───────── -->
 <details open>
-  <summary><b>📁 Proyecto_Personal</b> &nbsp;·&nbsp; <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code></summary>
+  <summary><b>📁 Proyecto_Personal</b></summary>
   <br/>
+
+  <p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Responsive-F97316?style=flat-square&logo=responsively&logoColor=white" alt="Responsive" />
+  </p>
+
   <p>Páginas y maquetación web centradas en la estructura del DOM y diseño web responsivo.</p>
-  
+
   <table>
     <tr>
-      <th>📄 Archivo / Concepto</th>
+      <th>📄 Concepto</th>
       <th>📝 Descripción</th>
     </tr>
     <tr>
@@ -123,36 +145,64 @@
 
   <p>
     <a href="https://github.com/LV-BTF/Proyecto_Personal">
-      <img src="https://img.shields.io/badge/ Ver%20C%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver Código" />
+      <img src="https://img.shields.io/badge/Ver%20C%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver Código" />
+    </a>
+    <a href="https://lv-btf.github.io/Proyecto_Personal/">
+      <img src="https://img.shields.io/badge/Ver%20Demo%20Online-22C55E?style=for-the-badge&logo=githubpages&logoColor=white" alt="Ver Demo Online" />
     </a>
   </p>
 </details>
 
+<!-- ───────── PROYECTO 3 ───────── -->
 <details>
-  <summary><b>📁 Prácticas de Maquetación Web (Pagina_Web_01 / 02 / 03)</b> &nbsp;·&nbsp; <code>HTML5</code> <code>CSS3</code></summary>
+  <summary><b>📁 Prácticas de Maquetación Web (Pagina_Web_01 / 02 / 03)</b></summary>
   <br/>
+
+  <p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/Flexbox-A855F7?style=flat-square&logo=css3&logoColor=white" alt="Flexbox" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  </p>
+
   <p>Colección de ejercicios prácticos iniciales enfocados en maquetación estructurada, estilos CSS y fundamentos web.</p>
-  
+
   <table>
     <tr>
       <th>📄 Repositorio</th>
-      <th>📝 Enfoque del Proyecto</th>
-      <th>💻 Enlace</th>
+      <th>📝 Enfoque</th>
+      <th>💻 Código</th>
+      <th>🚀 Demo</th>
     </tr>
     <tr>
       <td><b>Pagina_Web_01</b></td>
       <td>Estructura básica HTML5 y maquetación inicial.</td>
-      <td><a href="https://github.com/LV-BTF/Pagina_Web_01">Ver Repo</a></td>
+      <td align="center">
+        <a href="https://github.com/LV-BTF/Pagina_Web_01"><img src="https://img.shields.io/badge/C%C3%B3digo-181717?style=flat-square&logo=github&logoColor=white" alt="Código" /></a>
+      </td>
+      <td align="center">
+        <a href="https://lv-btf.github.io/Pagina_Web_01/"><img src="https://img.shields.io/badge/Demo-22C55E?style=flat-square&logo=githubpages&logoColor=white" alt="Demo" /></a>
+      </td>
     </tr>
     <tr>
       <td><b>Pagina_Web_02</b></td>
       <td>Diseño responsivo y layouts con CSS Flexbox.</td>
-      <td><a href="https://github.com/LV-BTF/Pagina_Web_02">Ver Repo</a></td>
+      <td align="center">
+        <a href="https://github.com/LV-BTF/Pagina_Web_02"><img src="https://img.shields.io/badge/C%C3%B3digo-181717?style=flat-square&logo=github&logoColor=white" alt="Código" /></a>
+      </td>
+      <td align="center">
+        <a href="https://lv-btf.github.io/Pagina_Web_02/"><img src="https://img.shields.io/badge/Demo-22C55E?style=flat-square&logo=githubpages&logoColor=white" alt="Demo" /></a>
+      </td>
     </tr>
     <tr>
       <td><b>Pagina_Web_03</b></td>
       <td>Introducción a la interacción dinámica con JS.</td>
-      <td><a href="https://github.com/LV-BTF/Pagina_Web_03">Ver Repo</a></td>
+      <td align="center">
+        <a href="https://github.com/LV-BTF/Pagina_Web_03"><img src="https://img.shields.io/badge/C%C3%B3digo-181717?style=flat-square&logo=github&logoColor=white" alt="Código" /></a>
+      </td>
+      <td align="center">
+        <a href="https://lv-btf.github.io/Pagina_Web_03/"><img src="https://img.shields.io/badge/Demo-22C55E?style=flat-square&logo=githubpages&logoColor=white" alt="Demo" /></a>
+      </td>
     </tr>
   </table>
 </details>
@@ -161,7 +211,7 @@
 
 <div align="center">
   <a href="https://github.com/LV-BTF?tab=repositories">
-    <img src="https://img.shields.io/badge/ Ver%20Todos%20Mis%20Repositorios-F97316?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repositorios" />
+    <img src="https://img.shields.io/badge/Ver%20Todos%20Mis%20Repositorios-F97316?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repositorios" />
   </a>
 </div>
 
@@ -171,15 +221,23 @@
 ## 📬 Contacto & Redes
 
 <div align="center">
+  <p>¿Tienes una idea, una oportunidad o quieres colaborar? <b>¡Hablemos!</b> 🤝</p>
+
+  <a href="https://www.linkedin.com/in/TU-USUARIO-LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:tu-correo@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://x.com/TU-USUARIO-X">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
   <a href="https://github.com/LV-BTF">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:tu-correo@email.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
 </div>
 
----
+<br/>
 
 <!-- ═══════════════ 8. PIE ═══════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer" width="100%" alt="Footer" />
