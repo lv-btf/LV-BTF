@@ -1,86 +1,149 @@
-
-<!-- 1. BANNER O ANIMACIÓN DE PORTADA -->
+<!-- ═══════════════ 1. CABECERA ═══════════════ -->
 <div align="center">
-  <!-- Arrastra tu GIF/Video al editor para que te dé un enlace y pégalo donde dice tu-animacion.gif -->
 
-  <br /><br />
-
-  <!-- Texto dinámico escribiéndose automáticamente -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5528D1&center=true&vCenter=true&width=500&lines=%C2%A1Hola!+Soy+lv;Estudiante+de+Ingenieria+de+Sistemas;Apasionado+por+la+Ciencia" alt="Typing SVG" />
-  </a>
-
-  <p><b>Desarrollador Web Frontend</b> | Apasionado por la tecnología, las estructuras de datos y el desarrollo web.</p>
-
-  <br />
-
-  <!-- BADGES DE TECNOLOGÍAS -->
-  <h3>🛠️ Lenguajes y Herramientas</h3>
-  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-  <br /><br />
-  
-  <img src="https://github.com/user-attachments/assets/be1a5d7c-5788-4f0c-bcbf-45c449305856" height="250" alt="Header Animado" />
-</div>
-
----
-
-<!-- 2. PORCENTAJE DE LENGUAJES AUTOMÁTICO -->
-<div align="center">
-  <h3>📊 Porcentaje de Lenguajes Usados</h3>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LV-BTF&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
-  </a>
-</div>
-
----
-
-<!-- 3. SECCIÓN DE PROYECTOS EN TARJETAS/TABLA -->
-## 🚀 Mis Proyectos
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=LV-BTF&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20Web%20Frontend&descSize=22&descAlignY=60" width="100%" alt="Banner" />
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🔍 Buscador de Usuarios GitHub</h3>
-      <p>Aplicación web que permite consultar perfiles de GitHub en tiempo real mediante API REST. Implementa una <b>pila (LIFO) manual</b> de máximo 5 elementos con reordenamiento dinámico y persistencia de datos local.</p>
-      <p><b>Características clave:</b></p>
-      <ul>
-        <li>Lógica de Stack manual (push, reordenamiento al índice 0).</li>
-        <li>Persistencia mediante <code>localStorage</code>.</li>
-        <li>Consumo de API con <code>async/await</code> y <code>fetch</code>.</li>
-      </ul>
-      <p><b>Tecnologías:</b> HTML5, CSS3, JavaScript Vanilla.</p>
-      <p align="center">
-        <!-- Puedes actualizar el link de abajo cuando tengas el repositorio publicado -->
-        <a href="https://github.com/LV-BTF"><b>💻 Ver Código</b></a>
-      </p>
+    <td align="center" valign="middle" width="60%">
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=520&height=90&lines=%C2%A1Hola%2C+soy+LV+%F0%9F%91%8B;Estudiante+de+Ingenier%C3%ADa+de+Sistemas+%F0%9F%8E%93;Desarrollador+Web+Frontend+%F0%9F%92%BB;Apasionado+por+la+Ciencia+y+la+Tecnolog%C3%ADa+%F0%9F%9A%80" alt="Typing SVG" />
+      </a>
+      <p>Me apasionan la <b>tecnología</b>, las <b>estructuras de datos</b> y el <b>desarrollo web</b>.<br/>Construyo interfaces limpias, funcionales y con lógica sólida.</p>
+      <img src="https://img.shields.io/badge/Estado-Aprendiendo%20cada%20d%C3%ADa-A855F7?style=for-the-badge&logo=rocket&logoColor=white" alt="Estado" />
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📌 Proyecto Personal</h3>
-      <p>Páginas y maquetación web enfocadas en aprender la estructura del DOM, estilos modernos CSS y manipulación dinámica de elementos en pantalla.</p>
-      <p><b>Características clave:</b></p>
-      <ul>
-        <li>Diseño responsivo.</li>
-        <li>Manejo de eventos DOM.</li>
-      </ul>
-      <p><b>Tecnologías:</b> HTML5, CSS3, JavaScript.</p>
-      <p align="center">
-        <a href="https://github.com/LV-BTF/Proyecto_Personal"><b>💻 Ver Código</b></a>
-      </p>
+    <td align="center" valign="middle" width="40%">
+      <img src="https://github.com/user-attachments/assets/be1a5d7c-5788-4f0c-bcbf-45c449305856" width="100%" alt="Animación" />
     </td>
   </tr>
 </table>
 
+<img src="https://komarev.com/ghpvc/?username=LV-BTF&label=Visitas&color=A855F7&style=for-the-badge" alt="Visitas" />
+
+</div>
+
+<!-- ═══════════════ 2. NAVEGACIÓN ═══════════════ -->
+<div align="center">
+
+[🧑‍💻 Sobre mí](#-sobre-mí) · [🛠️ Tecnologías](#️-tecnologías) · [📊 Estadísticas](#-estadísticas) · [📂 Proyectos](#-proyectos) · [📬 Contacto](#-contacto)
+
+</div>
+
 ---
 
-<!-- 4. INFORMACIÓN DE CONTACTO -->
-## 📬 Contacto & Redes
+<!-- ═══════════════ 3. SOBRE MÍ ═══════════════ -->
+## 🧑‍💻 Sobre mí
 
-- **GitHub:** [@LV-BTF](https://github.com/LV-BTF)
+- 🎓 Estudiante de **Ingeniería de Sistemas**
+- 💻 Enfocado en **desarrollo web Frontend** (HTML, CSS, JavaScript)
+- 🧠 Me interesan las **estructuras de datos** (pilas, colas, listas) y su implementación manual
+- 🔭 Actualmente aprendiendo **consumo de APIs**, manipulación del **DOM** y buenas prácticas con **Git**
+- 🌱 Meta: construir proyectos cada vez más completos y profesionales
 
+---
+
+<!-- ═══════════════ 4. TECNOLOGÍAS ═══════════════ -->
+## 🛠️ Tecnologías
+
+<div align="center">
+
+### 🎨 Lenguajes
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Lenguajes" />
+
+### 🧰 Herramientas
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Herramientas" />
+
+<br/>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+<!-- ═══════════════ 5. ESTADÍSTICAS ═══════════════ -->
+## 📊 Estadísticas
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=LV-BTF&show_icons=true&theme=tokyonight&hide_border=true&title_color=A855F7&icon_color=22D3EE&text_color=E2E8F0&bg_color=0D1117" alt="Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LV-BTF&layout=compact&theme=tokyonight&hide_border=true&title_color=A855F7&text_color=E2E8F0&bg_color=0D1117" alt="Lenguajes más usados" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=LV-BTF&theme=tokyonight&hide_border=true&ring=A855F7&fire=F97316&currStreakLabel=22D3EE" alt="Racha" />
+
+</div>
+
+---
+
+<!-- ═══════════════ 6. PROYECTOS POR CARPETAS ═══════════════ -->
+## 📂 Proyectos
+
+> Haz clic en cada carpeta para desplegarla y entrar al repositorio. 👇
+
+<details open>
+<summary><b>📁 Buscador-de-Usuarios-GitHub</b> &nbsp;·&nbsp; <code>JavaScript</code> <code>HTML5</code> <code>CSS3</code></summary>
+<br/>
+
+Aplicación web que consulta perfiles de GitHub en tiempo real mediante la **API REST**. Implementa una **pila (LIFO) manual** de máximo 5 elementos con reordenamiento dinámico y persistencia local.
+
+| 📄 Archivo / Concepto | 📝 Descripción |
+|---|---|
+| 🧱 **Stack manual** | `push` y reordenamiento al índice 0 |
+| 💾 **Persistencia** | Datos guardados con `localStorage` |
+| 🌐 **API** | Consumo con `async/await` y `fetch` |
+
+[![Ver Código](https://img.shields.io/badge/💻_Ver_Código-A855F7?style=for-the-badge)](https://github.com/LV-BTF)
+
+</details>
+
+<details open>
+<summary><b>📁 Proyecto_Personal</b> &nbsp;·&nbsp; <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code></summary>
+<br/>
+
+Páginas y maquetación web para aprender la estructura del **DOM**, estilos modernos con CSS y manipulación dinámica de elementos.
+
+| 📄 Archivo / Concepto | 📝 Descripción |
+|---|---|
+| 📱 **Diseño responsivo** | Se adapta a distintos tamaños de pantalla |
+| 🖱️ **Eventos DOM** | Interacción dinámica con el usuario |
+
+[![Ver Código](https://img.shields.io/badge/💻_Ver_Código-22D3EE?style=for-the-badge)](https://github.com/LV-BTF/Proyecto_Personal)
+
+</details>
+
+<details>
+<summary><b>📁 Próximamente...</b> &nbsp;·&nbsp; 🚧</summary>
+<br/>
+
+Más proyectos en camino. ¡Mantente atento! ⭐
+
+</details>
+
+<div align="center">
+
+[![Repositorios](https://img.shields.io/badge/📚_Ver_todos_mis_repositorios-F97316?style=for-the-badge)](https://github.com/LV-BTF?tab=repositories)
+
+</div>
+
+---
+
+<!-- ═══════════════ 7. CONTACTO ═══════════════ -->
+## 📬 Contacto
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-LV--BTF-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LV-BTF)
+
+</div>
+
+<!-- ═══════════════ 8. PIE ═══════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer" width="100%" alt="Footer" />
